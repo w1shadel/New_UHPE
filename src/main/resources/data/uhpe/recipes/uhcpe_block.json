@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {"item": "uhpe:hc_iron"},
+    "X": {"item": "uhpe:hc_uranium"},
+    "V": {"item": "uhpe:uhpe_item"},
+    "B": {"item": "uhpe:purtonium"},
+    "N": {"item": "uhpe:uranium_bar"}
+  },
+  "pattern": [
+    "NBC",
+    "XVB",
+    "CXN"
+  ],
+  "result": {
+    "item": "uhpe:uhcpe_item"
+  },
+  "show_notification": true
+}

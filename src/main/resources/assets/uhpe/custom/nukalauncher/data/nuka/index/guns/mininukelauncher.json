@@ -1,0 +1,9 @@
+{
+    "name": "nuka.gun.mininukelauncher.name",
+    "tooltip": "nuka.gun.mininukelauncher.desc",
+    "display": "nuka:mininukelauncher_display",
+    "data": "nuka:mininukelauncher_data",
+    "type": "rpg",
+    "item_type": "modern_kinetic",
+    "sort": 10
+}

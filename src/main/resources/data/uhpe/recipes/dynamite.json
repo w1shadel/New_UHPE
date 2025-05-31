@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {"item": "minecraft:tnt"},
+    "X": {"item": "minecraft:gunpowder"},
+    "V": {"item": "minecraft:paper"}
+  },
+  "pattern": [
+    " V ",
+    "XCX",
+    " V "
+  ],
+  "result": {
+    "item": "uhpe:dynamite"
+  },
+  "show_notification": true
+}

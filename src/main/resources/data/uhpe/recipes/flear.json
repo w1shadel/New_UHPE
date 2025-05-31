@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {"item": "minecraft:iron_ingot"},
+    "Z": {"item": "minecraft:red_dye"}
+  },
+  "pattern": [
+    "XZX",
+    "XZX",
+    "XXX"
+  ],
+  "result": {
+    "item": "uhpe:flear"
+  },
+  "show_notification": true
+}

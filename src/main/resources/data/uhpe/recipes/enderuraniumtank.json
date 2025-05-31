@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {"item": "minecraft:ender_eye"},
+    "Z": {"item": "uhpe:hc_iron"},
+    "C": {"item": "uhpe:hc_uranium"}
+  },
+  "pattern": [
+    "ZZZ",
+    "CXZ",
+    "ZZZ"
+  ],
+  "result": {
+    "item": "uhpe:enderuraniumtank"
+  },
+  "show_notification": true
+}

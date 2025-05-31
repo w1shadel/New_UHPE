@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Z": {"item": "minecraft:iron_ingot"},
+    "X": {"item": "minecraft:flint_and_steel"}
+  },
+  "pattern": [
+    " Z ",
+    "ZXZ",
+    " Z "
+  ],
+  "result": {
+    "item": "uhpe:termititem"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,33 @@
+{
+    "materials": [
+        {
+            "item": {
+                "tag": "forge:ingots/iron"
+            },
+            "count": 250
+        },
+        {
+            "item": {
+                "item": "minecraft:powered_rail"
+            },
+            "count": 6
+        },
+        {
+            "item": {
+                "item": "uhpe:mininuke"
+            },
+            "count": 1
+        },
+        {
+            "item": {
+                "tag": "minecraft:logs"
+            },
+            "count": 100
+        }
+    ],
+    "result": {
+        "type": "gun",
+        "id": "nuka:mininukelauncher"
+    },
+    "type": "tacz:gun_smith_table_crafting"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {"item": "minecraft:iron_ingot"},
+    "V": {"item": "minecraft:iron_trapdoor"},
+    "N": {"item": "uhpe:uranium"}
+  },
+  "pattern": [
+    "CVC",
+    "CNC",
+    "CCC"
+  ],
+  "result": {
+    "item": "uhpe:uranium_bar"
+  },
+  "show_notification": true
+}

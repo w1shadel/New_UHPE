@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 400,
+  "experience": 2,
+  "ingredient": [
+    {
+      "item": "uhpe:hc_uranium"
+    }
+  ],
+  "result": "uhpe:eternalfire"
+}

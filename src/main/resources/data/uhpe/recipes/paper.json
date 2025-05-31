@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 2,
+  "experience": 0.01,
+  "ingredient": [
+    {
+      "item": "minecraft:sugar_cane"
+    }
+  ],
+  "result": "minecraft:paper",
+  "count":3
+}

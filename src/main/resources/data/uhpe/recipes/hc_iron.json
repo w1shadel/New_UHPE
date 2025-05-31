@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 650,
+  "experience": 1.1,
+  "ingredient": [
+    {
+      "item": "uhpe:raw_hc_iron"
+    }
+  ],
+  "result": "uhpe:hc_iron"
+}

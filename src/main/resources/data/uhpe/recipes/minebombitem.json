@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Z": {"item": "minecraft:gunpowder"},
+    "X": {"item": "minecraft:heavy_weighted_pressure_plate"}
+  },
+  "pattern": [
+    " Z ",
+    "ZXZ",
+    " Z "
+  ],
+  "result": {
+    "item": "uhpe:minebombitem"
+  },
+  "show_notification": true
+}
+

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {"item": "minecraft:gunpowder"},
+    "X": {"item": "minecraft:iron_ingot"},
+    "V": {"item": "minecraft:slime_ball"}
+  },
+  "pattern": [
+    "CCC",
+    "XXX",
+    "XCV"
+  ],
+  "result": {
+    "item": "uhpe:c4_item"
+  },
+  "show_notification": true
+}

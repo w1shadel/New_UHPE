@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Z": {"item": "minecraft:iron_ingot"}
+  },
+  "pattern": [
+    " Z ",
+    "ZZZ",
+    " Z "
+  ],
+  "result": {
+    "item": "uhpe:raw_hc_iron"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "Z": {"item": "uhpe:enderuraniumtank"},
+    "X": {"item": "uhpe:eternalfire"},
+    "C": {"item": "uhpe:motherlord"},
+    "V": {"item": "uhpe:hc_uranium"},
+    "B": {"item": "uhpe:hc_iron"}
+  },
+  "pattern": [
+    "BVB",
+    "ZCZ",
+    " X "
+  ],
+  "result": {
+    "item": "uhpe:mininuke"
+  },
+  "show_notification": true
+}
+

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {"item": "uhpe:hc_iron"},
+    "Z": {"item": "minecraft:red_dye"}
+  },
+  "pattern": [
+    "XZX",
+    "XZX",
+    "XXX"
+  ],
+  "result": {
+    "item": "uhpe:gflear"
+  },
+  "show_notification": true
+}

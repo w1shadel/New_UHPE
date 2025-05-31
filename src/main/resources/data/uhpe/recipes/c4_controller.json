@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {"item": "minecraft:iron_ingot"}
+  },
+  "pattern": [
+    "XXX",
+    "XX ",
+    "XX "
+  ],
+  "result": {
+    "item": "uhpe:c4_controller"
+  },
+  "show_notification": true
+}

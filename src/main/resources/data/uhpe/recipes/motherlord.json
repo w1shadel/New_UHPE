@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {"item": "uhpe:hc_iron"},
+    "Z": {"item": "uhpe:eternalfire"},
+    "V": {"item": "minecraft:iron_trapdoor"}
+  },
+  "pattern": [
+    "X X",
+    "XZX",
+    "XVX"
+  ],
+  "result": {
+    "item": "uhpe:motherlord"
+  },
+  "show_notification": true
+}

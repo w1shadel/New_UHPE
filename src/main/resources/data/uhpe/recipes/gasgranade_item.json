@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {"item": "minecraft:gunpowder"},
+    "Z": {"item": "uhpe:hc_iron"},
+    "V": {"item": "uhpe:yellow_cake"}
+  },
+  "pattern": [
+    "Z  ",
+    "ZVZ",
+    "ZXZ"
+  ],
+  "result": {
+    "item": "uhpe:gasgranade_item"
+  },
+  "show_notification": true
+}

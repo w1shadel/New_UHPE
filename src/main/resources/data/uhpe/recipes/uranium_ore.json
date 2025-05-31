@@ -1,0 +1,17 @@
+
+{
+"type": "minecraft:crafting_shaped",
+"key": {
+"C": {"item": "minecraft:cobblestone"},
+"X": {"item": "minecraft:copper_block"}
+},
+"pattern": [
+"CCC",
+"CXC",
+"CCC"
+],
+"result": {
+"item": "uhpe:uranium_ore"
+},
+"show_notification": true
+}

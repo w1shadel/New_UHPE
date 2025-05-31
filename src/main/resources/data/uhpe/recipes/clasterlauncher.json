@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {"item": "uhpe:clasterbomb"},
+    "X": {"item": "uhpe:enderuraniumtank"},
+    "V": {"item": "uhpe:hc_iron"},
+    "B": {"item": "minecraft:powered_rail"}
+  },
+  "pattern": [
+    "VBV",
+    "CXC",
+    "VVV"
+  ],
+  "result": {
+    "item": "uhpe:clasterlauncher"
+  },
+  "show_notification": true
+}
